@@ -1,0 +1,1 @@
+select txt from tabelas_temp.dbo.t_bases_cdc
